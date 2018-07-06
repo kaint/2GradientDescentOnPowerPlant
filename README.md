@@ -52,5 +52,3 @@ The best way is to check the ground near you and observe where the land tends to
 should take your first step. If you follow the descending path, it is very likely you would reach the lake. Any position on the mountai
 n is the cost value evaluated by the current values of the coefficients (values of coefficients corresponding given by that point on
 bowl). The lake is the point where the cost will be minimum. The goal is to find this point.  
- 
-
